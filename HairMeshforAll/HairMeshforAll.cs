@@ -5,10 +5,10 @@ using HarmonyLib;
 namespace HairMeshforAll
 {
     [BepInPlugin(GUID, "Hair Mesh for All", Version)]
-    public partial class HairMeshforAll : BaseUnityPlugin
+    public class HairMeshforAll : BaseUnityPlugin
     {
         public const string GUID = "kky.HairMeshforAll";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
 
         private static CmpHair hairComponent;
         private static bool goAhead;

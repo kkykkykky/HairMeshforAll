@@ -1,4 +1,5 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
@@ -9,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("https://github.com/kkykkykky")]
 [assembly: AssemblyProduct(nameof(HairMeshforAll))]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b717eab0-3c3b-4c12-a810-610c70d4c337")]
+[assembly: Guid("87137b20-c36c-458e-beb0-685c68fd44bd")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -31,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion(HairMeshforAll.HairMeshforAll.Version)]
-[assembly: AssemblyFileVersion(HairMeshforAll.HairMeshforAll.Version)]
+[assembly: AssemblyVersion(HairMeshforAll.BepInExLoader.Version)]
+[assembly: AssemblyFileVersion(HairMeshforAll.BepInExLoader.Version)]
