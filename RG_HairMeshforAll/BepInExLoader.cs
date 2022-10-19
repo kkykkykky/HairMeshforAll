@@ -8,11 +8,10 @@ namespace HairMeshforAll
 {
     [BepInPlugin(GUID, "RG Hair Mesh for All", Version)]
     [BepInProcess("RoomGirlTrial")]
-    [BepInProcess("RoomGirl")]
     public class BepInExLoader : BepInEx.IL2CPP.BasePlugin
     {
         public const string GUID = "kky.RG.HairMeshforAll";
-        public const string Version = "1.0.1";
+        public const string Version = "1.0.2";
 
         public static BepInEx.Logging.ManualLogSource log;
 
