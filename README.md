@@ -6,7 +6,7 @@ Enables mesh customization option for all hair in AI, HS2, and Room Girl. Now yo
  - Get latest version for your game from the Releases page.
 
 **Installation:**
- - Extract to your game folder or put the .dll file in BepInEx\Plugins.
+ - Extract to your game folder. If installing manually, put the .dll file in BepInEx\Plugins, and for Room Studio, put .dll file in Studio\BepInEx\plugins.
 
 **Usage:**
  - Option is enabled automatically. No configuration needed.
